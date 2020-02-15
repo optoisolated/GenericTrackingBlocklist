@@ -2,6 +2,8 @@ analytics.plex.tv
 metrics.plex.tv
 apac.sandbox.sophos.com
 eu.sandbox.sophos.com
+sandbox.sophos.com
+us.sandbox.sophos.com
 metadata.erabu.sony.tv
 api.erabu.sony.tv
 apollo2.dl.playstation.net
