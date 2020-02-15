@@ -1,14 +1,12 @@
 analytics.plex.tv
+metrics.plex.tv
 apac.sandbox.sophos.com
-api.erabu.sony.tv
-api.meta.ndmdhs.com
-apollo2.dl.playstation.net
 eu.sandbox.sophos.com
-flickr-panda-police.a00.yahoodns.net
+metadata.erabu.sony.tv
+api.erabu.sony.tv
+apollo2.dl.playstation.net
 img.epermarket.com
 insight.lswf.net
-metadata.erabu.sony.tv
-metrics.plex.tv
 openapi.xg.qq.com
 openapi.xg.qq.com.gateway
 signal.auto.mydlink.com
@@ -22,3 +20,5 @@ www.ovip.icq.com
 www.wenkuxiazai.com
 www.wiss.cn
 www.wshifen.com
+api.meta.ndmdhs.com
+api.intelsa.intel.com
