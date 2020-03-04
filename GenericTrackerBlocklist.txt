@@ -20,3 +20,6 @@ www.wiss.cn
 www.wshifen.com
 api.meta.ndmdhs.com
 api.intelsa.intel.com
+vendorpanel.com.au
+benjaziamed.tn
+constellationservices.com.au
